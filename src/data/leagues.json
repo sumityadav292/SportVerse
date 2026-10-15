@@ -1,0 +1,47 @@
+[
+  {
+    "id": "epl",
+    "name": "Premier League",
+    "sport": "football",
+    "country": "England",
+    "flag": "🇬🇧",
+    "matches": 12,
+    "season": "2025/26"
+  },
+  {
+    "id": "laliga",
+    "name": "La Liga",
+    "sport": "football",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "matches": 10,
+    "season": "2025/26"
+  },
+  {
+    "id": "ipl",
+    "name": "Indian Premier League",
+    "sport": "cricket",
+    "country": "India",
+    "flag": "🇮🇳",
+    "matches": 8,
+    "season": "2026"
+  },
+  {
+    "id": "nba",
+    "name": "NBA",
+    "sport": "basketball",
+    "country": "USA",
+    "flag": "🇺🇸",
+    "matches": 14,
+    "season": "2025/26"
+  },
+  {
+    "id": "atp",
+    "name": "ATP Tour",
+    "sport": "tennis",
+    "country": "International",
+    "flag": "🌍",
+    "matches": 6,
+    "season": "2026"
+  }
+]

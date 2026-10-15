@@ -1,0 +1,11 @@
+{
+  "epl": [
+    { "teamId": "ars", "played": 8, "won": 6, "draw": 2, "lost": 0, "gd": 12, "pts": 20 },
+    { "teamId": "mci", "played": 8, "won": 6, "draw": 1, "lost": 1, "gd": 11, "pts": 19 },
+    { "teamId": "liv", "played": 8, "won": 5, "draw": 2, "lost": 1, "gd": 8, "pts": 17 }
+  ],
+  "laliga": [
+    { "teamId": "rma", "played": 8, "won": 6, "draw": 1, "lost": 1, "gd": 10, "pts": 19 },
+    { "teamId": "bar", "played": 8, "won": 5, "draw": 2, "lost": 1, "gd": 9, "pts": 17 }
+  ]
+}

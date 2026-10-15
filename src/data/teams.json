@@ -1,0 +1,92 @@
+[
+  {
+    "id": "mci",
+    "name": "Manchester City",
+    "short": "MCI",
+    "sport": "football",
+    "leagueId": "epl",
+    "color": "#6CABDD",
+    "form": ["W", "W", "D", "W", "W"]
+  },
+  {
+    "id": "liv",
+    "name": "Liverpool",
+    "short": "LIV",
+    "sport": "football",
+    "leagueId": "epl",
+    "color": "#C8102E",
+    "form": ["W", "L", "W", "W", "D"]
+  },
+  {
+    "id": "ars",
+    "name": "Arsenal",
+    "short": "ARS",
+    "sport": "football",
+    "leagueId": "epl",
+    "color": "#EF0107",
+    "form": ["W", "W", "W", "D", "W"]
+  },
+  {
+    "id": "rma",
+    "name": "Real Madrid",
+    "short": "RMA",
+    "sport": "football",
+    "leagueId": "laliga",
+    "color": "#FEBE10",
+    "form": ["W", "W", "W", "W", "L"]
+  },
+  {
+    "id": "bar",
+    "name": "Barcelona",
+    "short": "BAR",
+    "sport": "football",
+    "leagueId": "laliga",
+    "color": "#A50044",
+    "form": ["W", "D", "W", "L", "W"]
+  },
+  {
+    "id": "mi",
+    "name": "Mumbai Indians",
+    "short": "MI",
+    "sport": "cricket",
+    "leagueId": "ipl",
+    "color": "#045093",
+    "form": ["W", "W", "L", "W", "W"]
+  },
+  {
+    "id": "csk",
+    "name": "Chennai Super Kings",
+    "short": "CSK",
+    "sport": "cricket",
+    "leagueId": "ipl",
+    "color": "#F9CD05",
+    "form": ["L", "W", "W", "D", "W"]
+  },
+  {
+    "id": "lal",
+    "name": "Los Angeles Lakers",
+    "short": "LAL",
+    "sport": "basketball",
+    "leagueId": "nba",
+    "color": "#FDB927",
+    "form": ["W", "W", "L", "W", "W"]
+  },
+  {
+    "id": "bos",
+    "name": "Boston Celtics",
+    "short": "BOS",
+    "sport": "basketball",
+    "leagueId": "nba",
+    "color": "#007A33",
+    "form": ["W", "L", "W", "W", "W"]
+  },
+  {
+    "id": "gsw",
+    "name": "Golden State Warriors",
+    "short": "GSW",
+    "sport": "basketball",
+    "leagueId": "nba",
+    "color": "#1D428A",
+    "form": ["L", "W", "W", "D", "W"]
+  }
+]
